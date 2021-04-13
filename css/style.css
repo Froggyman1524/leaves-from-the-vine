@@ -1,0 +1,24 @@
+body{
+	margin: 0;
+	text-align: center;
+	background-color: #f0f0f0;
+}
+header{
+	background-color: #ff6e6e
+}
+img{
+	width: 30%;
+	border-radius: 150px;
+	border: 10px solid #ffffff;
+}
+
+footer{
+	margin: 0;
+	padding: 40px;
+	background-color: white ;
+}
+
+	<header>
+		<img src="img/genraliroh.jpg">
+		<h1>Leaves From The Vine</h1>
+	</header>
